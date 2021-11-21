@@ -1,2 +1,2 @@
-# sunnyside agency paroject
+# sunnyside agency project
  sunnyside agency landing page
